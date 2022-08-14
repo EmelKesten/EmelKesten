@@ -9,3 +9,6 @@
 - 💡 I love cars, motorcycles, tech, woodworking and music!
 - 🥅 2022 Goals: Socialize more, do my best at school, buy a Macbook with my own money and be a better person in general!
 - ⚡ At free time I love to: Read crime books, watch horror movies and work with my dad!
+
+
+[https://github-readme-stats.vercel.app/api/top-langs/?username=EmelKesten&count_private=true&show_icons=true&theme=react&count_private=true]
