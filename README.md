@@ -11,4 +11,4 @@
 - ⚡ At free time I love to: Read crime books, watch horror movies and work with my dad!
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmelKesten&count_private=true&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmelKesten&count_private=true&show_icons=true&theme=react&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
