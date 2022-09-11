@@ -1,11 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)
+[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gif)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Emel</h1>
 <h3 align="center">I'm a teen developer</h3>
 
 <br />
 
-(img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/342885011/original.gif")
+<img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/342885011/original.gif">
 
 - 👨🏻‍💻 I love to code at night while listening to music 🎧!
 - 🌱 I’m currently learning React.js
