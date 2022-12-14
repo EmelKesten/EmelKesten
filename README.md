@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://data.whicdn.com/images/342885011/original.gif">
 
 - 👨🏻‍💻 I love to code at night while listening to music 🎧!
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Node JS
 - 💡 I love cars, motorcycles, tech, engineering and music!
 - 🥅 2022 Goals: Socialize more, do my best at school and be a better person in general!
 - 📫 How to reach me **kestenemel@gmail.com**
