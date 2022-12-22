@@ -11,7 +11,7 @@
 - 👨🏻‍💻 I love to code at night while listening to music 🎧!
 - 🌱 I’m currently learning Node JS
 - 💡 I love cars, motorcycles, tech, engineering and music!
-- 🥅 2022 Goals: Socialize more, do my best at school and be a better person in general!
+- 🥅 2023 Goals: Meet good people, socialize more and be a better person in gereral!
 - 📫 How to reach me **kestenemel@gmail.com**
 - ⚡ At free time I love to: Read crime books, watch horror movies and work with my dad!
 
